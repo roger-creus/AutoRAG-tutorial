@@ -3,5 +3,7 @@ chunk_project_dir/*
 parse_project_dir/*
 papers_data/*
 raw_documents/*
+*_oracle.yaml
+*_ORACLE.ipynb
 *.pyc
 

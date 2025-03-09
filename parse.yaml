@@ -1,4 +1,4 @@
 modules:
   - module_type: langchain_parse
-    parse_method: [pdfminer] # TODO: pdfminer or pypdf
+    parse_method: [TODO] # TODO: pdfminer or pypdf
     file_type: all_files
