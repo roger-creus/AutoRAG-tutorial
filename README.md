@@ -23,8 +23,9 @@ set OPENAI_API_KEY="<YOUR_OPENAI_API_KEY>" on Windows
 
 The goal of the tutorial is to answer the following questions:
 
-- What is the exact value of epsilon hyperparameter used in the original DQN paper?
-... 
+- What is the exact value of epsilon used during evaluation for the epislon-greedy policy in the DQN algorithm?
+- How many games did the DQN network outperform all previous RL algorithms on out of the seven games attempted?
+- What is SOFE?
 
 
 # Uninstall
