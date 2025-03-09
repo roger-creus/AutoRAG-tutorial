@@ -1,0 +1,7 @@
+project_dir/*
+chunk_project_dir/*
+parse_project_dir/*
+papers_data/*
+raw_documents/*
+*.pyc
+
