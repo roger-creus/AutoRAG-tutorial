@@ -47,6 +47,11 @@ The goal of the tutorial is to have an LLM correctly answer the following challe
 4. How was ChainForge implemented?
 5. In ChainForge, what was the average rating for the interface given by participants?
 
+### 💡 Hints
+- DQN (Deep Q-Network) is a foundational reinforcement learning algorithm first presented in: "Mnih, V., Kavukcuoglu, K., Silver, D., et al. (2013). Playing Atari with Deep Reinforcement Learning. arXiv preprint arXiv:1312.5602."
+- SOFE was introduced in Roger's recent publication at ICML: "Castanyer, R. C., Romoff, J., & Berseth, G. (2023). Improving Intrinsic Exploration by Creating Stationary Objectives. arXiv preprint arXiv:2310.18144."
+- ChainForge is Professor Ian Arawjo's work: Arawjo, I., et al. (2023). "ChainForge: An Open-Source Visual Programming Environment for Prompt Engineering. Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology."
+
 ## 🧹 Uninstall
 When you're finished with the tutorial, you can clean up with:
 
