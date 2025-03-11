@@ -19,6 +19,8 @@ conda create -n autorag python=3.11 -y
 conda activate autorag
 pip install -r requirements.txt
 conda env config vars set OPENAI_API_KEY="<YOUR_OPENAI_API_KEY>"
+conda deactivate
+conda activate autorag
 ```
 
 ### Without Conda
