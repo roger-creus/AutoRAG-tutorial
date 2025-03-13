@@ -15,7 +15,8 @@ For efficient dependency management, use [`uv`](https://docs.astral.sh/uv/gettin
 Create and set up the environment: 
 
 ```sh
-uv run --no-project
+uv venv
+uv pip install -r pyproject.toml
 ```
 
 This allows you to run commands in a temporary virtual environment without requiring a `pyproject.toml`.
