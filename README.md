@@ -8,7 +8,20 @@ This tutorial covers AutoRAG with an interactive activity where students tackle 
 
 ## 🛠️ Installation
 
-### With Conda (Recommended)
+### With `uv` (Recommended)  
+
+For efficient dependency management, use [`uv`](https://docs.astral.sh/uv/getting-started/installation/).  
+
+Create and set up the environment: 
+
+```sh
+uv venv
+uv pip install -r pyproject.toml
+```
+
+This allows you to run commands in a temporary virtual environment without requiring a `pyproject.toml`.
+
+### With Conda
 
 Install conda from: [Conda Installation Guide](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation)
 
